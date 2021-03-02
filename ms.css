@@ -1,0 +1,12 @@
+.cellview {
+    width: 20px;
+    height: 20px;
+}
+
+.cellview.unrevealed {
+    border: thin solid black;
+}
+
+table {
+    border: thick solid black;
+}
